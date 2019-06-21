@@ -1,11 +1,11 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Navbar from "../src/Containers/Navbar";
+import Home from "../src/Containers/Home";
 function App() {
   return (
     <div>
-      <Navbar />
+      <Home />
     </div>
   );
 }
