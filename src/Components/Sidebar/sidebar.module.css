@@ -4,10 +4,11 @@
 }
 
 .sidebarHeader{
-    padding: 0.8rem;
+    padding: 1rem;
     background: #F4F4F4;
     font-weight: 700;
-    text-transform: uppercase
+    text-transform: uppercase;
+    font-size: 14px;
 }
 
 .sidebarContent{
