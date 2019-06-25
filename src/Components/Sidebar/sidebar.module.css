@@ -1,6 +1,8 @@
 .sidebarContainer{
     border:1px solid #ddd;
     width: 250px;
+    margin-right:20px;
+    height: 100%;
 }
 
 .sidebarHeader{
@@ -18,6 +20,7 @@
     color: #555;
     cursor: pointer;
     font-size: 14px;
+    width: 200px;
     
 }
 
